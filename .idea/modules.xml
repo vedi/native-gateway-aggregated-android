@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flurry-bunch/flurry-bunch.iml" filepath="$PROJECT_DIR$/flurry-bunch/flurry-bunch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native-gateway-android.iml" filepath="$PROJECT_DIR$/native-gateway-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native-gateway-common/native-gateway-common.iml" filepath="$PROJECT_DIR$/native-gateway-common/native-gateway-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native-gateway-unity3d/native-gateway-unity3d.iml" filepath="$PROJECT_DIR$/native-gateway-unity3d/native-gateway-unity3d.iml" />
+    </modules>
+  </component>
+</project>
+

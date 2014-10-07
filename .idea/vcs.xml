@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flurry-bunch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/native-gateway-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/native-gateway-unity3d" vcs="Git" />
+  </component>
+</project>
+
