@@ -7,3 +7,6 @@
 [submodule "flurry-bunch"]
 	path = flurry-bunch
 	url = https://github.com/vedi/flurry-bunch-android.git
+[submodule "share-bunch"]
+	path = share-bunch
+	url = https://github.com/vedi/share-bunch-android.git

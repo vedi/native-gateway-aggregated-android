@@ -1,1 +1,1 @@
-include ':native-gateway-common', ':native-gateway-unity3d', ':flurry-bunch'
+include ':native-gateway-common', ':native-gateway-unity3d', ':flurry-bunch', ':share-bunch'
