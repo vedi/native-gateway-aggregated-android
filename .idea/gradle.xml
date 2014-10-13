@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/flurry-bunch" />
             <option value="$PROJECT_DIR$/native-gateway-common" />
             <option value="$PROJECT_DIR$/native-gateway-unity3d" />
+            <option value="$PROJECT_DIR$/share-bunch" />
           </set>
         </option>
       </GradleProjectSettings>

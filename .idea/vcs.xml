@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/flurry-bunch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/native-gateway-common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/native-gateway-unity3d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/share-bunch" vcs="Git" />
   </component>
 </project>
 
