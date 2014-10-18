@@ -13,3 +13,6 @@
 [submodule "native-gateway-cocos2dx"]
 	path = native-gateway-cocos2dx
 	url = https://github.com/vedi/native-gateway-cocos2dx-android.git
+[submodule "cocos2dx"]
+	path = cocos2dx
+	url = https://github.com/vedi/cocos2dx-gradle-wrapper.git
