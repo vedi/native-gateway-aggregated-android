@@ -3,12 +3,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/cocos2dx" />
             <option value="$PROJECT_DIR$/flurry-bunch" />
+            <option value="$PROJECT_DIR$/native-gateway-cocos2dx" />
             <option value="$PROJECT_DIR$/native-gateway-common" />
             <option value="$PROJECT_DIR$/native-gateway-unity3d" />
             <option value="$PROJECT_DIR$/share-bunch" />

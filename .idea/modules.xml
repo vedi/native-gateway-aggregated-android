@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cocos2dx/cocos2dx.iml" filepath="$PROJECT_DIR$/cocos2dx/cocos2dx.iml" />
       <module fileurl="file://$PROJECT_DIR$/flurry-bunch/flurry-bunch.iml" filepath="$PROJECT_DIR$/flurry-bunch/flurry-bunch.iml" />
       <module fileurl="file://$PROJECT_DIR$/native-gateway-android.iml" filepath="$PROJECT_DIR$/native-gateway-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native-gateway-cocos2dx/native-gateway-cocos2dx.iml" filepath="$PROJECT_DIR$/native-gateway-cocos2dx/native-gateway-cocos2dx.iml" />
       <module fileurl="file://$PROJECT_DIR$/native-gateway-common/native-gateway-common.iml" filepath="$PROJECT_DIR$/native-gateway-common/native-gateway-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/native-gateway-unity3d/native-gateway-unity3d.iml" filepath="$PROJECT_DIR$/native-gateway-unity3d/native-gateway-unity3d.iml" />
       <module fileurl="file://$PROJECT_DIR$/share-bunch/share-bunch.iml" filepath="$PROJECT_DIR$/share-bunch/share-bunch.iml" />
