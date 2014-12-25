@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocos2dx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/flurry-bunch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/native-gateway-cocos2dx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/native-gateway-common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/native-gateway-unity3d" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/share-bunch" vcs="Git" />
