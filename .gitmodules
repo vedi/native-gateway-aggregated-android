@@ -16,3 +16,6 @@
 [submodule "cocos2dx"]
 	path = cocos2dx
 	url = https://github.com/vedi/cocos2dx-gradle-wrapper.git
+[submodule "admob-bunch"]
+	path = admob-bunch
+	url = git@github.com:smallkot/admob-bunch-android.git
